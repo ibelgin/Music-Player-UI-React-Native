@@ -10,6 +10,7 @@ import {
 
 const Dev_Height = Dimensions.get("window").height
 const Dev_Width = Dimensions.get("window").width
+
 import {AntDesign,Entypo,Feather} from "react-native-vector-icons"
 import Slider from '@react-native-community/slider';
 import ProgressCircle from 'react-native-progress-circle'
