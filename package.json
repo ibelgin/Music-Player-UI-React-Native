@@ -13,7 +13,7 @@
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
-    "react-native-web": "~0.11.7",
+    "react-native-web": "~0.14.8",
     "react-native-paper": "3.6.0",
     "react-native-vector-icons": "7.1.0",
     "react-native-dropdown-picker": "3.6.8",
