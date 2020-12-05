@@ -16,7 +16,7 @@
     "react-native-web": "~0.11.7",
     "react-native-paper": "4.4.1",
     "react-native-vector-icons": "7.1.0",
-    "react-native-dropdown-picker": "3.6.8",
+    "react-native-dropdown-picker": "3.7.1",
     "react-native-progress-circle": "2.1.0",
     "react-native-select-input-ios": "2.0.5",
     "@react-native-community/slider": "3.0.3"
